@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Introduction to the world of GitHub.
+One day this will all make sense.
